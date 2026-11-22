@@ -14,7 +14,7 @@ An end-to-end, production-style omnichannel contact center built on **Amazon Con
 
 ## Live Architecture
 
-![Humsafar Travels Live Architecture](docs/architecture/LiveArchitecture-flowchart.png)
+![Humsafar Travels Live Architecture](docs/architecture/Live Architecture flowchart.png)
 
 ---
 

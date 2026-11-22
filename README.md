@@ -60,3 +60,19 @@ humsafar-amazon-connect-ccaas/
 ├── lex/                    # HumsafarTravelsBot schema & locale exports
 ├── ai-prompts/             # Custom SelfServiceAnswerGeneration YAML prompt
 └── terraform/              # Upcoming IaC + CI/CD rebuild
+
+## Roadmap
+
+[x] Voice IVR baseline, VIP PIN validation, Business Hours & Queue Hold loop
+[x] Hosted Communications Widget embedded on GitHub Pages (Chat + WebRTC Voice)
+[x] Real-time multilingual chat translation + Generative AI Resume Knowledge Base
+[x] Inbound Email channel + S3 CORS + Agent Workspace routing
+[ ] Add native French (fr_FR) and a third locale to HumsafarTravelsBot (Lex V2)
+[ ] Upload sanitized Contact Flow JSONs & Lambda source code
+[ ] Request Amazon SES Production access for live two-way public email demos
+[ ] Rebuild full Amazon Connect + Lex + Lambda stack using Terraform & CI/CD
+
+## Connect With Me
+
+Portfolio: heyimnishat.github.io/aws-cloud-resume-portfolio
+Author: Mohammad Nishat
